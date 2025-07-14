@@ -21,6 +21,9 @@
 - 🧮 Мобилно приложение "MadMath"
   - Приложението е включено в научното списание "Дигитални образователни технологии" на ВТУ "Св. Св. Кирил и Методий", `(ТОМ 1, БРОЙ 2).` - <a href="https://journals.uni-vt.bg/dt/bul/vol1/iss2/art7" target="_blank">Преглед</a>
 
+### 🖥️ Личен сайт
+<a href="https://blueonn33.github.io/martin-marinov/" target="_blank">Към сайта</a>
+
 ### 💻 Езици и технологии, които използвам
 
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2b%2b&logoColor=white&style=flat-square)
@@ -38,9 +41,6 @@
 ![Scheme](https://img.shields.io/badge/-Scheme-1E4A8D?style=flat-square)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat-square)
-
-### 🖥️ Личен сайт
-<a href="https://blueonn33.github.io/martin-marinov/" target="_blank">Към сайта</a>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=blueonn33&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
