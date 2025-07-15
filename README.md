@@ -3,6 +3,8 @@
 - 👨🏻‍🎓 Студент във ВТУ "Св. Св. Кирил и Методий", специалност Информатика, 2023 - 2027
 - 💼 Асистент по "Уеб дизайн" във ВТУ "Св. Св. Кирил и Методий"
 - 🖌️ Обичам да създавам дизайни - от такива за уеб сайтове до логота и плакати
+- 📷 Занимавам се с фотография
+- 🎞️ Обработка на видеа
 - 🦹🏻 Гледам аниме
 - 🏋🏻‍♂️ Тренирам
 - 🎵 Слушам музика (Mr.Kitty, Ari Abdul, MXTHI3V и много други)
@@ -49,6 +51,8 @@
 - 👨🏻‍🎓 Student at University of Veliko Tarnovo "St. St. Cyril and Methodius", Bulgaria, majoring in Informatics, 2023 - 2027
 - 💼 Web Design Assistant at University of Veliko Tarnovo "St. St. Cyril and Methodius"
 - 🖌️ I love creating designs - from web sites to logos and posters.
+- 📷 Photography
+- 🎞️ Video editing
 - 🦹🏻 I watch anime
 - 🏋🏻‍♂️ Training
 - 🎵 I listen to music (Mr.Kitty, Ari Abdul, MXTHI3V and many more)
