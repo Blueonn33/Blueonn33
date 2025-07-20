@@ -39,8 +39,6 @@
 ![ASP.NET](https://img.shields.io/badge/-ASP.NET-5C2D91?logo=dotnet&logoColor=white&style=flat-square)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat-square)
 [![Microsoft SQL Server](https://custom-icon-badges.demolab.com/badge/Microsoft%20SQL%20Server-CC2927?logo=mssqlserver-white&logoColor=white)](#)
-![Prolog](https://img.shields.io/badge/-Prolog-4B0082?style=flat-square)
-![Scheme](https://img.shields.io/badge/-Scheme-1E4A8D?style=flat-square)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat-square)
 
