@@ -69,5 +69,5 @@ University of Veliko Tarnovo "St. St. Cyril and Methodius".
   - The application is included in the scientific journal "Digital Educational Technologies" of the University of Veliko Tarnovo "St. St. Cyril and Methodius",
 `(VOLUME 1, ISSUE 2).` - <a href="https://journals.uni-vt.bg/dt/bul/vol1/iss2/art7" target="_blank">To the journal</a>
 
-### 🖥️ Personal website in English
+### 🖥️ Personal website
 <a href="https://blueonn33.github.io/martinmarinov/" target="_blank">To the web site</a>
