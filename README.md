@@ -24,7 +24,7 @@
   - Приложението е включено в научното списание "Дигитални образователни технологии" на ВТУ "Св. Св. Кирил и Методий", `(ТОМ 1, БРОЙ 2).` - <a href="https://journals.uni-vt.bg/dt/bul/vol1/iss2/art7" target="_blank">Към списанието</a>
 
 ### 🖥️ Личен сайт
-<a href="https://blueonn33.github.io/martin-marinov/" target="_blank">Към сайта</a>
+<a href="https://blueonn33.github.io/martinmarinov/" target="_blank">Към сайта</a>
 
 ### 💻 Езици и технологии, които използвам
 
@@ -70,4 +70,4 @@ University of Veliko Tarnovo "St. St. Cyril and Methodius".
 `(VOLUME 1, ISSUE 2).` - <a href="https://journals.uni-vt.bg/dt/bul/vol1/iss2/art7" target="_blank">To the journal</a>
 
 ### 🖥️ Personal website in English
-<a href="https://blueonn33.github.io/m.marinov/" target="_blank">To the web site</a>
+<a href="https://blueonn33.github.io/martinmarinov/" target="_blank">To the web site</a>
