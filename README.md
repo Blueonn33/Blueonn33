@@ -1,7 +1,7 @@
 ## Здравей! Аз съм `Мартин Маринов`
 ### 👦🏻 За мен
 - 👨🏻‍🎓 Студент във Великотърновски университет "Св. Св. Кирил и Методий", специалност Информатика, 2023 - 2027
-- 💼 Асистент по "Уеб дизайн" във Великотърновски университет "Св. Св. Кирил и Методий"
+- 💼 Преподавател по "Уеб дизайн" във Великотърновски университет "Св. Св. Кирил и Методий" - октомври 2025
 - 🖌️ Обичам да създавам дизайни - от такива за уеб сайтове до логота и плакати
 - 📷 Занимавам се с фотография
 - 🎞️ Обработка на видеа
@@ -47,7 +47,7 @@
 ## Hi! I'm `Martin Marinov`
 ### 👦🏻 About me
 - 👨🏻‍🎓 Student at University of Veliko Tarnovo "St. St. Cyril and Methodius", Bulgaria, majoring in Informatics, 2023 - 2027
-- 💼 Web Design Assistant at University of Veliko Tarnovo "St. St. Cyril and Methodius"
+- 💼 Lecturer in "Web Design" at the University of Veliko Tarnovo "St. Cyril and Methodius" - october 2025
 - 🖌️ I love creating designs - from web sites to logos and posters.
 - 📷 Photography
 - 🎞️ Video editing
