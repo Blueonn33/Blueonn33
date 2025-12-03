@@ -41,33 +41,3 @@
 [![Microsoft SQL Server](https://custom-icon-badges.demolab.com/badge/Microsoft%20SQL%20Server-CC2927?logo=mssqlserver-white&logoColor=white)](#)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat-square)
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=blueonn33&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
-
-## Hi! I'm `Martin Marinov`
-### 👦🏻 About me
-- 👨🏻‍🎓 Student at University of Veliko Tarnovo "St. St. Cyril and Methodius", Bulgaria, majoring in Informatics, 2023 - 2027
-- 💼 Lecturer in "Web Design" at the University of Veliko Tarnovo "St. Cyril and Methodius" - october 2025
-- 🖌️ I love creating designs - from web sites to logos and posters.
-- 📷 Photography
-- 🎞️ Video editing
-- 🦹🏻 I watch anime
-- 🏋🏻‍♂️ Training
-- 🎵 I listen to music (Mr.Kitty, Ari Abdul, MXTHI3V and many more)
-- 📘 I read books
-
-### 🏆 Awards and scientific reports
-- ⚫ Award for applicability in a scientific conference of young researchers of the Faculty of Mathematics and Informatics.
-University of Veliko Tarnovo "St. St. Cyril and Methodius".
-`I participated with the web application "Mansor". 2024.`
-  - The application is included in the scientific journal "Mathematics, Computer Science and Education" of the University of Veliko Tarnovo "St. St. Cyril and Methodius",
-`(VOLUME 7, ISSUE 2).` - <a href="https://journals.uni-vt.bg/mcse/bul/vol7/iss2/art8" target="_blank">To the journal</a>
-- 🪻 Award for applicability in a scientific conference of young researchers of the Faculty of Mathematics and Informatics.
-University of Veliko Tarnovo "St. St. Cyril and Methodius".
-`I participated with the web application "Indigo". 2025.`
-- 🧮 Mobile application "MadMath"
-  - The application is included in the scientific journal "Digital Educational Technologies" of the University of Veliko Tarnovo "St. St. Cyril and Methodius",
-`(VOLUME 1, ISSUE 2).` - <a href="https://journals.uni-vt.bg/dt/bul/vol1/iss2/art7" target="_blank">To the journal</a>
-
-### 🖥️ Personal website
-<a href="https://blueonn33.github.io/martinmarinov/" target="_blank">To the web site</a>
