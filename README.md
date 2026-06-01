@@ -28,14 +28,16 @@
 <a href="https://blueonn33.github.io/martinmarinov/" target="_blank">Към сайта</a>
 
 ## 💻 Езици и технологии, които използвам
-<img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/html5/html5-original.svg" width="50" style="display:inline"/>
-<img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/css3/css3-original.svg" width="50" style="display:inline"/>
-<img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/javascript/javascript-original.svg" width="50" style="display:inline"/>
-<img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/bootstrap/bootstrap-plain.svg" width="50" style="display:inline"/>
-<img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/csharp/csharp-original.svg" width="50" style="display:inline"/>
-<img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/dot-net/dot-net-original.svg" width="50" />
-<img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/visualstudio/visualstudio-plain.svg" width="50" />
-<img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="50" />
-<img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/git/git-original.svg" width="50" />
-<img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/firebase/firebase-plain-wordmark.svg" width="50" />
-<img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/figma/figma-original.svg" width="50" />
+<p>
+  <img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/html5/html5-original.svg" width="50" />
+  <img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/css3/css3-original.svg" width="50" />
+  <img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/javascript/javascript-original.svg" width="50" />
+  <img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/bootstrap/bootstrap-plain.svg" width="50" />
+  <img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/csharp/csharp-original.svg" width="50" />
+  <img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/dot-net/dot-net-original.svg" width="50" />
+  <img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/visualstudio/visualstudio-plain.svg" width="50" />
+  <img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="50" style="background:white; padding:4px; border-radius:6px;" />
+  <img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/git/git-original.svg" width="50" />
+  <img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/firebase/firebase-plain-wordmark.svg" width="50" />
+  <img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/figma/figma-original.svg" width="50" />
+</p>
