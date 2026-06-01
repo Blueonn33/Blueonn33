@@ -41,4 +41,4 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat-square)
 [![Microsoft SQL Server](https://custom-icon-badges.demolab.com/badge/Microsoft%20SQL%20Server-CC2927?logo=mssqlserver-white&logoColor=white)](#)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square)
-![Figma](https://github.com/devicons/devicon/blob/v2.14.0/icons/figma/figma-original.svg)[50px]
+<img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/figma/figma-original.svg" width="50" />
