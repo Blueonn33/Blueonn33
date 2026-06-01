@@ -36,7 +36,7 @@
   <img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/csharp/csharp-original.svg" width="50" />
   <img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/dot-net/dot-net-original.svg" width="50" />
   <img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/visualstudio/visualstudio-plain.svg" width="50" />
-  <img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="50" style="background:white; padding:4px; border-radius:6px;" />
+  <img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="50" style="background-color:white; padding:4px; border-radius:6px;" />
   <img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/git/git-original.svg" width="50" />
   <img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/firebase/firebase-plain-wordmark.svg" width="50" />
   <img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/figma/figma-original.svg" width="50" />
