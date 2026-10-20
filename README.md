@@ -9,8 +9,9 @@
   - Хоноруван преподавател по "Уеб дизайн" във Великотърновски университет "Св. Св. Кирил и Методий". Към [сайта](https://www.uni-vt.bg/bul/);
     - (октомври 2025 - февруари 2026),
     - (октомври 2026 - досега).
-  - Стажант в MentorMate (вече е Tieto). Разработен проект по време на стажа: Към [проекта](https://github.com/nikolmih/VividTracker).
-    Към [сайта](https://www.tieto.com/en-us/news/other-news/2026/mentormate-becomes-tieto/);
+  - Стажант в MentorMate (вече е Tieto). Разработен проект по време на стажа:
+    - Към [проекта](https://github.com/nikolmih/VividTracker).
+    - Към [сайта](https://www.tieto.com/en-us/news/other-news/2026/mentormate-becomes-tieto/);
     - (февруари 2022 - май 2023).
 - 🖌️ Обичам да създавам дизайни - от такива за уеб сайтове до логота и плакати;
 - 👨‍💻 Разработвам уеб приложения на ASP.NET;
